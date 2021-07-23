@@ -20,7 +20,7 @@ import Grid from '@material-ui/core/Grid';
 import AppBar from '@material-ui/core/AppBar';
 import ToolBar from '@material-ui/core/ToolBar';
 import IconButton from '@material-ui/core/IconButton';
-import MenuIcon from '@material-ui/core/Menu';
+import MenuIcon from '@material-ui/icons/Menu';
 
 
 const useStyles = makeStyles({
